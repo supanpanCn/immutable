@@ -7,7 +7,7 @@ const {OrderedMap} = require('immutable')
 /* 
     set    设置
         --key和value可以是任意类型
-    get    取值
+    get    以键名取值
     delete/deleteAll  删除
     clear  清空
     update 更新

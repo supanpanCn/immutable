@@ -74,3 +74,5 @@ let people = List([{
 }])
 let res = people.groupBy(x=>x.sex)
 console.log(res)
+
+console.log(list)
